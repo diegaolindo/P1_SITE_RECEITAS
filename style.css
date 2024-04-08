@@ -4,7 +4,7 @@ body {
     height: 100%;
 }
 
-h1{
+#titulo{
     font-family: serif;
     text-shadow: 1px 1px 1px;
 }
@@ -19,7 +19,7 @@ h2{
 }
 
 header {
-    background-color: #BF3604;
+    background-image: linear-gradient(to top, #BF3604, #ff4907);
     padding: 1px;
     width: 600px; 
     margin: auto;

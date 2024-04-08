@@ -1,0 +1,102 @@
+body {
+    text-align: center;
+    background-image: url(https://www.gov.br/saude/pt-br/assuntos/saude-brasil/glossario/comida-de-verdade/wiki-4-comida-de-verdade.png/@@images/02dd266a-0b6d-4963-91c0-bf418ae1d4dc.png);
+    height: 100%;
+}
+
+header {
+    background-image: linear-gradient(to top, #BF3604, #ff4907);
+    padding: 1px;
+    width: 600px; 
+    margin: auto;
+}
+
+main {
+    background-color: #BF8665;
+    padding: 1px;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+}
+
+footer {
+    background-color: #365902;
+    padding: 1px;
+    margin: auto;
+    width: 600px;
+}
+/* IDS, CLASSES, TAGS */
+#titulo{
+    font-family: serif;
+    text-shadow: 1px 1px 1px;
+}
+
+#cursos{
+    text-align: left;
+}
+
+a:hover{
+    color: #680303;
+    cursor: pointer;
+}
+
+.listas{
+    position: fixed;
+}
+
+.fotosreceitas{
+    position: relative;
+    left: 370px;
+    bottom: 168px;
+}
+
+.preparo{
+    text-align: left;
+    position: relative;
+    bottom: 145px;
+}
+
+.navega{ 
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    align-items: center;
+    padding: 1px;
+}
+
+.redessoci{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    padding: 1px;
+    justify-content: space-evenly
+    ;
+}
+
+.igredientes{
+    text-align: left;
+}
+
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+th{
+    background-color: #976b51;
+    padding: 1px;
+    
+}
+
+a{
+    color: Black;
+    text-decoration: none;
+}
+
+strong{
+    color: #590202;
+}
+
